@@ -49,25 +49,18 @@
 
 </p>
 
-<p align="center">
+**Technologies:**
 
+<p align="center">
 <code>XCode</code>
-
 <code>Swift</code>
-
 <code>UIKit</code>
-
 <code>Cocoapods</code>
-
 </p>
-
 <p align="center">
-
 <code>Alamofire</code>
-
 <code>SwiftyJSON</code>
 
-<code>Jetpack Library</code>
 >GitHub link 
 </p>
 
@@ -79,9 +72,8 @@
 </p>
 <h3 align="center"> Just a Note</h3>
 
-<p align="center">
-
 >sceen
+
 
 </a>
 
@@ -90,24 +82,19 @@
 <p align="center">
 
 >Discription
-
 </p>
 
+**Technologies:**
+
 <p align="center">
-
 <code>XCode</code>
-
 <code>Swift</code>
-
 <code>UIKit</code>
-
 <code>Cocoapods</code>
 
-</p>
-
 <p align="center">
-
 <code>Realm</code>
+</p>
 
 >GitHub link 
 </p>
