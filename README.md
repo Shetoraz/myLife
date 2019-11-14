@@ -27,14 +27,16 @@
 
 <h1 align="center">My apps</h1>
 
-  <p align="center">
-
-<img src="/images/noteApp/IconЦршеу.png" alt="App Icon" width="100" height="100">
+<p align="center">
+	<img src="/images/noteApp/noteAppIcon.png" alt="App Icon" width="100" height="100">
 </p>
 <h3 align="center"> Just a Note</h3>
 
->sceen
-
+<p align="center">
+	<img src="/images/noteApp/noteAppImage1.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/noteApp/noteAppImage2.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/noteApp/noteAppImage3.png" alt="Screenshot" width="220" height="417">
+</p>
 
 </a>
 
