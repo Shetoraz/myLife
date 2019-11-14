@@ -29,7 +29,7 @@
 
   <p align="center">
 
->logo screen!
+<img src="/images/noteApp/IconЦршеу.png" alt="App Icon" width="100" height="100">
 </p>
 <h3 align="center"> Just a Note</h3>
 
