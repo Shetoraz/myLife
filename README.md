@@ -27,7 +27,38 @@
 
 <h1 align="center">My apps</h1>
 
-  
+  <p align="center">
+
+>logo screen!
+</p>
+<h3 align="center"> Just a Note</h3>
+
+>sceen
+
+
+</a>
+
+</p>
+
+<p align="center">
+
+>Discription
+</p>
+
+**Technologies:**
+
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+<code>Cocoapods</code>
+
+<p align="center">
+<code>Realm</code>
+</p>
+
+>GitHub link 
+</p>
 
 <p align="center">
 
@@ -66,38 +97,7 @@
 
 
 ====
-<p align="center">
 
->logo screen!
-</p>
-<h3 align="center"> Just a Note</h3>
-
->sceen
-
-
-</a>
-
-</p>
-
-<p align="center">
-
->Discription
-</p>
-
-**Technologies:**
-
-<p align="center">
-<code>XCode</code>
-<code>Swift</code>
-<code>UIKit</code>
-<code>Cocoapods</code>
-
-<p align="center">
-<code>Realm</code>
-</p>
-
->GitHub link 
-</p>
 
 # TO BE CONTINUED...
 
