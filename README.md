@@ -1,4 +1,7 @@
->my photo
+<p align="center">
+	<img width="300" height="300" src="/portfolioImage1Circle.png"/> 
+</p>
+
 <h1 align="center">Anton Asetski</h1>
 
 <p align="center">
