@@ -1,4 +1,7 @@
->my photo
+<p align="center">
+	<img width="300" height="300" src="/portfolioImage1Circle.png"/> 
+</p>
+
 <h1 align="center">Anton Asetski</h1>
 
 <p align="center">
@@ -129,7 +132,7 @@ After 3 successful answers, we can finish or continue the game.
 <p align="center">
 	<img src="/images/Password generator/lockIcon.png" alt="App Icon" width="100" height="100">
 </p>
-<h3 align="center"> Arithmetic trainin' </h3>
+<h3 align="center"> Password Generator </h3>
 
 <p align="center">
 	<img src="/images/Password generator/image1.png" alt="Screenshot" width="250" height="400">
