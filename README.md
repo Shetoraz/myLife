@@ -18,7 +18,7 @@
 
 </a>
 
-<a href="grizzliboom@gmail.com">
+<a href="mailto:grizzliboom@gmail.com">
 
 <img src="https://img.shields.io/static/v1?label=Email&message=Me&color=F7831">
 
