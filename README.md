@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="300" height="300" src="/portfolioImage1Circle.png"/> 
+	<img width="300" height="300" src="/images/portfolioImage1Circle.png"/> 
 </p>
 
 <h1 align="center">Anton Asetski</h1>
@@ -23,6 +23,13 @@
 <img src="https://img.shields.io/static/v1?label=Email&message=Me&color=F7831">
 
 </a>
+
+<a href="https://mogilev.jobs.tut.by/resume/5c35cbfdff06b82b7e0039ed1f35494d4b4370">
+
+<img src="https://img.shields.io/static/v1?label=Resume&message=Me&color=red">
+
+</a>
+
 </p>
 
 <p align="center">
