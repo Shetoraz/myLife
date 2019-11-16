@@ -69,8 +69,6 @@ Simple animations, expandable cells, bits of design, and love are included.
 </a>
 
 </p>
-------------
-
 
 <p align="center">
 
@@ -105,7 +103,7 @@ Do you have favorite bloggers? In this app, you can make your own list of favori
 </p>
 
 </p>
-------------
+
 
 
 <p align="center">
@@ -141,7 +139,7 @@ I like to read, but also appreciate the time. The application is designed for pe
 </a>
 	
 </p>
-------------
+
 
 <p align="center">
 	<img src="/images/calculatorGame/calculatorIcon.png" alt="App Icon" width="100" height="100">
@@ -170,7 +168,7 @@ After 3 successful answers, we can finish or continue the game.
 
 
 </p>
-------------
+
 
 <p align="center">
 	<img src="/images/Password generator/lockIcon.png" alt="App Icon" width="100" height="100">
