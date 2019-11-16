@@ -6,16 +6,21 @@
 
 <p align="center">
 
->insert more contacts
+<a href="https://t.me/FlexonZ">
+
+<img src="https://img.shields.io/static/v1?label=Telegram&message=Me&color=blue">
+
+</a>
+
 <a href="https://github.com/Shetoraz">
 
-<img src="https://img.shields.io/static/v1?label=Github&message=Anton-Asetski&color=darkgrey">
+<img src="https://img.shields.io/static/v1?label=Github&message=Me&color=darkgrey">
 
 </a>
 
 <a href="grizzliboom@gmail.com">
 
-<img src="https://img.shields.io/static/v1?label=Email&message=Anton&color=F7831">
+<img src="https://img.shields.io/static/v1?label=Email&message=Me&color=F7831">
 
 </a>
 </p>
@@ -36,9 +41,9 @@
 <h3 align="center"> Just a Note</h3>
 
 <p align="center">
-	<img src="/images/noteApp/noteAppImage1.png" alt="Screenshot" width="250" height="400">
-	<img src="/images/noteApp/noteAppImage2.png" alt="Screenshot" width="250" height="400">
-	<img src="/images/noteApp/noteAppImage3.png" alt="Screenshot" width="250" height="400">
+	<img src="/images/noteApp/noteAppImage1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/noteApp/noteAppImage2.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/noteApp/noteAppImage3.png" alt="Screenshot" width="250" height="380">
 </p>
 
 </a>
@@ -60,30 +65,28 @@ Simple animations, expandable cells, bits of design, and love are included.
 </p>
 <p align = "center">
 <a href="https://github.com/Shetoraz/NoteApp">
-<img src="https://img.shields.io/static/v1?label=Github&message=NoteApp&color=darkgrey">
+<img src="https://img.shields.io/static/v1?label=Github&message=NoteApp&color=F7831">
 </a>
 
 </p>
+------------
 
 
 <p align="center">
 
->logo screen!
-</p>
-
-<h3 align="center"> Channel Checker</h3>
-<p align="center">
-
->sceen
-
-</a>
+<img src="/images/YTFollower/imageIcon.png" alt="App Icon" width="100" height="100">
 
 </p>
 
+<h3 align="center"> YTFollower </h3>
+
 <p align="center">
+	<img src="/images/YTFollower/image1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/YTFollower/image2.png" alt="Screenshot" width="250" height="380">
+</p>
 
->Discription
-
+<p align="center">
+Do you have favorite bloggers? In this app, you can make your own list of favorite bloggers, monitor their number of subscribers in real time. <br /> Other features will be added, such as: recent videos, general channel's info, etc. <br /> This app is a BETA.
 </p>
 
 
@@ -95,8 +98,50 @@ Simple animations, expandable cells, bits of design, and love are included.
 <code>Alamofire</code>
 <code>SwiftyJSON</code>
 
->GitHub link 
+<p align = "center">
+<a href="https://github.com/Shetoraz/Channel-Tracker-">
+<img src="https://img.shields.io/static/v1?label=Github&message=YTFollower&color=F7831">
+</a>
 </p>
+
+</p>
+------------
+
+
+<p align="center">
+	<img src="/images/fastReader/imageIcon.png" alt="App Icon" width="100" height="100">
+</p>
+
+<h3 align="center"> Turbo Reader </h3>
+
+<p align="center">
+	<img src="/images/fastReader/image1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/fastReader/image2.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/fastReader/image3.png" alt="Screenshot" width="250" height="380">
+</p>
+
+</a>
+
+</p>
+
+<p align="center">
+I like to read, but also appreciate the time. The application is designed for people who dont want to spend a lot of time reading articles/books. Just let the application know what text you want to read, and set the speed. Using the word-for-word technique, you will finish the article twice faster. <br /> You can also keep track of how much time has been saved for all time.
+</p>
+
+
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+</p>
+
+<p align = "center">
+<a href="https://github.com/Shetoraz/fastReader">
+<img src="https://img.shields.io/static/v1?label=Github&message=Reader&color=F7831">
+</a>
+	
+</p>
+------------
 
 <p align="center">
 	<img src="/images/calculatorGame/calculatorIcon.png" alt="App Icon" width="100" height="100">
@@ -104,8 +149,8 @@ Simple animations, expandable cells, bits of design, and love are included.
 <h3 align="center"> Arithmetic trainin' </h3>
 
 <p align="center">
-	<img src="/images/calculatorGame/image.png" alt="Screenshot" width="250" height="400">
-	<img src="/images/calculatorGame/image2.png" alt="Screenshot" width="250" height="400">
+	<img src="/images/calculatorGame/image.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/calculatorGame/image2.png" alt="Screenshot" width="250" height="380">
 </p>
 
 </a>
@@ -123,11 +168,9 @@ After 3 successful answers, we can finish or continue the game.
 <code>Swift</code>
 <code>UIKit</code>
 
->GitHub link 
+
 </p>
-
-====
-
+------------
 
 <p align="center">
 	<img src="/images/Password generator/lockIcon.png" alt="App Icon" width="100" height="100">
@@ -135,8 +178,8 @@ After 3 successful answers, we can finish or continue the game.
 <h3 align="center"> Password Generator </h3>
 
 <p align="center">
-	<img src="/images/Password generator/image1.png" alt="Screenshot" width="250" height="400">
-	<img src="/images/Password generator/image2.png" alt="Screenshot" width="250" height="400">
+	<img src="/images/Password generator/image1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/Password generator/image2.png" alt="Screenshot" width="250" height="380">
 </p>
 
 </a>
@@ -144,7 +187,7 @@ After 3 successful answers, we can finish or continue the game.
 </p>
 
 <p align="center">
-Password generating application. You can change the password length, set the password parameters. <br />
+Simple password generating application. You can change the password length, set the password parameters. <br />
 Works perfectly, but design corrections and some features are needed.
 </p>
 
@@ -153,10 +196,15 @@ Works perfectly, but design corrections and some features are needed.
 <code>XCode</code>
 <code>Swift</code>
 <code>UIKit</code>
-	
->GitHub link 
-
 </p>
+
+<p align = "center">
+<a href="https://github.com/Shetoraz/passwordGen">
+<img src="https://img.shields.io/static/v1?label=Github&message=PGenerator&color=F7831">
+</a>
+</p>
+	
+
 
 
 # TO BE CONTINUED...
