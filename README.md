@@ -236,14 +236,10 @@ Great app created using "Charts" library. Use it to monitor cryptocurrency info,
 </p>
 <p align = "center">
 <a href="https://github.com/Shetoraz/Crypto-Parser">
-<img src="https://img.shields.io/static/v1?label=Github&message=Crypto Parser&color=F7831">
+<img src="https://img.shields.io/static/v1?label=Github&message=Crypto-Parser&color=F7831">
 </a>
 
 </p>
-
-<p align="center">
-
-<img src="/images/YTFollower/imageIcon.png" alt="App Icon" width="100" height="100">
 
 </p>
 
