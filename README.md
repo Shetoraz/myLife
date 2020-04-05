@@ -210,8 +210,41 @@ Works perfectly, but design corrections and some features are needed.
 </p>
 	
 
+<h3 align="center">Crypto Parser</h3>
+
+<p align="center">
+	<img src="/images/noteApp/noteAppImage1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/noteApp/noteAppImage2.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/noteApp/noteAppImage3.png" alt="Screenshot" width="250" height="380">
+</p>
+
+</a>
+
+</p>
+
+<p align="center">
+Great app created using "Charts" library. Use it to monitor cryptocurrency info, including: price, marketcap, etc.
+</p>
 
 
-# TO BE CONTINUED...
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+<code>Cocoapods</code>
+<code>Charts</code>
+</p>
+<p align = "center">
+<a href="https://github.com/Shetoraz/Crypto-Parser">
+<img src="https://img.shields.io/static/v1?label=Github&message=Crypto Parser&color=F7831">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="/images/YTFollower/imageIcon.png" alt="App Icon" width="100" height="100">
+
+</p>
 
 
