@@ -34,7 +34,7 @@
 
 <p align="center">
 
-**Hey. I am 19 years old. I study at the Belarusian State Pedagogical University in Minsk at the Faculty of Physics and Mathematics. For a year now I have been developing for iOS. A positive guy who wants products to which he had a hand to bring people pleasure and simplify their life. And so, with what I began:**
+**Hey. I am 19 years old. I study at the Belarusian State Pedagogical University in Minsk at the Faculty of Physics and Mathematics. For a year now I have been developing for iOS. A positive guy who wants his products to bring pleasure to every user and simplify their life. This is how i started:**
 
 </p>
 
@@ -210,8 +210,37 @@ Works perfectly, but design corrections and some features are needed.
 </p>
 	
 
+<h3 align="center">Crypto Parser</h3>
+
+<p align="center">
+	<img src="/images/noteApp/noteAppImage1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/noteApp/noteAppImage2.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/noteApp/noteAppImage3.png" alt="Screenshot" width="250" height="380">
+</p>
+
+</a>
+
+</p>
+
+<p align="center">
+Great app created using "Charts" library. Use it to monitor cryptocurrency info, including: price, marketcap, etc.
+</p>
 
 
-# TO BE CONTINUED...
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+<code>Cocoapods</code>
+<code>Charts</code>
+</p>
+<p align = "center">
+<a href="https://github.com/Shetoraz/Crypto-Parser">
+<img src="https://img.shields.io/static/v1?label=Github&message=Crypto-Parser&color=F7831">
+</a>
+
+</p>
+
+</p>
 
 
