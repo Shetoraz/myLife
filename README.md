@@ -77,6 +77,42 @@ Simple animations, expandable cells, bits of design, and love are included.
 
 </p>
 
+	
+
+<h3 align="center">Crypto Parser</h3>
+
+<p align="center">
+	<img src="/images/cryptoParser/image1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/cryptoParser/image2.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/cryptoParser/image3.png" alt="Screenshot" width="250" height="380">
+</p>
+
+</a>
+
+</p>
+
+<p align="center">
+Great app created using "Charts" library. Use it to monitor cryptocurrency info, including: price, marketcap, etc.
+</p>
+
+
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+<code>Cocoapods</code>
+<code>Charts</code>
+</p>
+<p align = "center">
+<a href="https://github.com/Shetoraz/Crypto-Parser">
+<img src="https://img.shields.io/static/v1?label=Github&message=Crypto-Parser&color=F7831">
+</a>
+
+</p>
+
+</p>
+
+
 <p align="center">
 
 <img src="/images/YTFollower/imageIcon.png" alt="App Icon" width="100" height="100">
@@ -107,6 +143,40 @@ Do you have favorite bloggers? In this app, you can make your own list of favori
 <a href="https://github.com/Shetoraz/Channel-Tracker-">
 <img src="https://img.shields.io/static/v1?label=Github&message=YTFollower&color=F7831">
 </a>
+</p>
+
+</p>
+
+
+	
+
+<h3 align="center">SwiftUI News</h3>
+
+<p align="center">
+	<img src="/images/newsSwiftUI/image1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/newsSwiftUI/image2.png" alt="Screenshot" width="250" height="380">
+</p>
+
+</a>
+
+</p>
+
+<p align="center">
+News application using the "hacking news" api. Works with iOS / macOS. Shows top 20 news today
+</p>
+
+
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+<code>SwiftUI</code>
+</p>
+<p align = "center">
+<a href="https://github.com/Shetoraz/newsSwiftUI">
+<img src="https://img.shields.io/static/v1?label=Github&message=News&color=F7831">
+</a>
+
 </p>
 
 </p>
@@ -208,39 +278,3 @@ Works perfectly, but design corrections and some features are needed.
 <img src="https://img.shields.io/static/v1?label=Github&message=PGenerator&color=F7831">
 </a>
 </p>
-	
-
-<h3 align="center">Crypto Parser</h3>
-
-<p align="center">
-	<img src="/images/noteApp/noteAppImage1.png" alt="Screenshot" width="250" height="380">
-	<img src="/images/noteApp/noteAppImage2.png" alt="Screenshot" width="250" height="380">
-	<img src="/images/noteApp/noteAppImage3.png" alt="Screenshot" width="250" height="380">
-</p>
-
-</a>
-
-</p>
-
-<p align="center">
-Great app created using "Charts" library. Use it to monitor cryptocurrency info, including: price, marketcap, etc.
-</p>
-
-
-<p align="center">
-<code>XCode</code>
-<code>Swift</code>
-<code>UIKit</code>
-<code>Cocoapods</code>
-<code>Charts</code>
-</p>
-<p align = "center">
-<a href="https://github.com/Shetoraz/Crypto-Parser">
-<img src="https://img.shields.io/static/v1?label=Github&message=Crypto-Parser&color=F7831">
-</a>
-
-</p>
-
-</p>
-
-
