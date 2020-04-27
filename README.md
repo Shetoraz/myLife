@@ -77,7 +77,9 @@ Simple animations, expandable cells, bits of design, and love are included.
 
 </p>
 
-	
+<p align="center">
+	<img src="/images/cryptoParser/btcIcon.png" alt="App Icon" width="100" height="100">
+</p>	
 
 <h3 align="center">Crypto Parser</h3>
 
@@ -148,7 +150,11 @@ Do you have favorite bloggers? In this app, you can make your own list of favori
 </p>
 
 
-	
+<p align="center">
+
+<img src="/images/newsSwiftUI/newsIcon.png" alt="App Icon" width="100" height="100">
+
+</p>
 
 <h3 align="center">SwiftUI News</h3>
 
