@@ -43,6 +43,44 @@
 <h1 align="center">My apps</h1>
 
 <p align="center">
+	<img src="/images/cryptoParser/btcIcon.png" alt="App Icon" width="100" height="100">
+</p>	
+
+<h3 align="center">Wall chat</h3>
+
+<p align="center">
+	<img src="/images/firebaseApp/image1.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/firebaseApp/image3.png" alt="Screenshot" width="250" height="380">
+	<img src="/images/firebaseApp/image2.png" alt="Screenshot" width="250" height="380">
+</p>
+
+</a>
+
+</p>
+
+<p align="center">
+Anonymous chat for everyone. Feel free to share any ideas/fellings with others. All messages are anonymous (set any nickname you want) and sorted by date. You can manage your account on the second screen. The limit on characters count in the post will not allow spam anarchy.
+</p>
+
+
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+<code>Firebase/Auth</code>
+<code>Firebase/Database</code>
+</p>
+<p align = "center">
+<a href="https://github.com/Shetoraz/firebaseProject">
+<img src="https://img.shields.io/static/v1?label=Github&message=Firebase-App&color=F7831">
+</a>
+
+</p>
+
+</p>
+
+
+<p align="center">
 	<img src="/images/noteApp/noteAppIcon.png" alt="App Icon" width="100" height="100">
 </p>
 <h3 align="center"> Just a Note</h3>
@@ -106,6 +144,40 @@ Great app created using "Charts" library. Use it to monitor cryptocurrency info,
 <p align = "center">
 <a href="https://github.com/Shetoraz/Crypto-Parser">
 <img src="https://img.shields.io/static/v1?label=Github&message=Crypto-Parser&color=F7831">
+</a>
+
+</p>
+
+</p>
+
+
+<p align="center">
+	<img src="/images/cryptoParser/btcIcon.png" alt="App Icon" width="100" height="100">
+</p>	
+
+<h3 align="center">Today Weather</h3>
+
+<p align="center">
+	<img src="/images/weatherApp/image1.png" alt="Screenshot" width="250" height="380">
+</p>
+
+</a>
+
+</p>
+
+<p align="center">
+Checks the weather for today in seconds considering your location. Move around the clock with a simple slider.
+</p>
+
+
+<p align="center">
+<code>XCode</code>
+<code>Swift</code>
+<code>UIKit</code>
+</p>
+<p align = "center">
+<a href="https://github.com/Shetoraz/testWeather">
+<img src="https://img.shields.io/static/v1?label=Github&message=weatherApp&color=F7831">
 </a>
 
 </p>
