@@ -43,7 +43,7 @@
 <h1 align="center">My apps</h1>
 
 <p align="center">
-	<img src="/images/cryptoParser/btcIcon.png" alt="App Icon" width="100" height="100">
+	<img src="/images/firebaseApp/icon.png" alt="App Icon" width="100" height="100">
 </p>	
 
 <h3 align="center">Wall chat</h3>
@@ -152,7 +152,7 @@ Great app created using "Charts" library. Use it to monitor cryptocurrency info,
 
 
 <p align="center">
-	<img src="/images/cryptoParser/btcIcon.png" alt="App Icon" width="100" height="100">
+	<img src="/images/weatherApp/icon.png" alt="App Icon" width="100" height="100">
 </p>	
 
 <h3 align="center">Today Weather</h3>
