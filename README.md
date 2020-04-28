@@ -67,7 +67,6 @@ Simple animations, expandable cells, bits of design, and love are included.
 <code>XCode</code>
 <code>Swift</code>
 <code>UIKit</code>
-<code>Cocoapods</code>
 <code>Realm</code>
 </p>
 <p align = "center">
@@ -77,7 +76,9 @@ Simple animations, expandable cells, bits of design, and love are included.
 
 </p>
 
-	
+<p align="center">
+	<img src="/images/cryptoParser/btcIcon.png" alt="App Icon" width="100" height="100">
+</p>	
 
 <h3 align="center">Crypto Parser</h3>
 
@@ -100,7 +101,6 @@ Great app created using "Charts" library. Use it to monitor cryptocurrency info,
 <code>XCode</code>
 <code>Swift</code>
 <code>UIKit</code>
-<code>Cocoapods</code>
 <code>Charts</code>
 </p>
 <p align = "center">
@@ -135,7 +135,6 @@ Do you have favorite bloggers? In this app, you can make your own list of favori
 <code>XCode</code>
 <code>Swift</code>
 <code>UIKit</code>
-<code>Cocoapods</code>
 <code>Alamofire</code>
 <code>SwiftyJSON</code>
 
@@ -148,7 +147,11 @@ Do you have favorite bloggers? In this app, you can make your own list of favori
 </p>
 
 
-	
+<p align="center">
+
+<img src="/images/newsSwiftUI/newsIcon.png" alt="App Icon" width="100" height="100">
+
+</p>
 
 <h3 align="center">SwiftUI News</h3>
 
