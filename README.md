@@ -34,7 +34,7 @@
 
 <p align="center">
 
-**Hey. I am 19 years old. I study at the Belarusian State Pedagogical University in Minsk at the Faculty of Physics and Mathematics. For a year now I have been developing for iOS. A positive guy who wants his products to bring pleasure to every user and simplify their life. This is how i started:**
+**Hey. I'm 19 years old. I study at the Faculty of Physics and Mathematics at BSPU. For about a year I've been doing independent study of iOS development using articles, videos, online courses and books. A positive guy who wants to make interesting apps for everyone. My own apps are below:**
 
 </p>
 
