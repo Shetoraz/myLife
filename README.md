@@ -34,7 +34,7 @@
 
 <p align="center">
 
-**Hey. I'm 19 years old. I study at the Faculty of Physics and Mathematics at BSPU. For about a year I've been doing independent study of iOS development using articles, videos, online courses and books. I also study Objective-C, Python in my free time and do my own Python project. A positive guy who wants to make interesting apps for everyone. My own apps are below:**
+**Hey. I'm 20 years old. I study at the Faculty of Physics and Mathematics at BSPU. For about a year I've been doing independent study of iOS development using articles, videos, online courses and books. I also study Objective-C, Python in my free time and did my own Python projects. A positive guy who wants to make interesting apps for everyone. Several of my own apps are below:**
 
 </p>
 
